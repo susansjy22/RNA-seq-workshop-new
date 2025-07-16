@@ -60,17 +60,23 @@ contact: 'fixme@fixme.org' # FIXME
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.md
+episodes:
+- What is RNA-seq.Rmd
+- Why is a good experimental design vital.Rmd
+- Terminology.Rmd
+- The importance of replicates to estimate variance.Rmd
+- How many replicates and how many reads do I need.Rmd
+- Sequencing options to consider.Rmd
+- Summary.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
