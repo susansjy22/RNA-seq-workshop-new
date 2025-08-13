@@ -1,9 +1,9 @@
 ---
 title: "Why is a good experimental design vital?"
-author: "SS"
+author: "Melbourne Bioinformatics"
 date: "2025-07-12"
-teaching: 45
-exercises: 20
+teaching: 10
+exercises: 0
 editor_options: 
   markdown: 
     wrap: 72
